@@ -1,73 +1,36 @@
-# Welcome to your Lovable project
+AI Recruitment Platform
 
-## Project info
+An end-to-end AI-driven web platform integrating four recruitment tools:
 
-**URL**: https://lovable.dev/projects/8df50dfa-1982-4da1-ae91-cd055d54adfe
+ATS‑Optimized Resume Scanner
+Solo Interview Simulator
+AI Group Discussion Analyzer
+Hiring Probability Predictor
+Features
+User onboarding (OAuth2 / SSO)
+Personalized dashboard with metrics
+Interactive module interfaces
+PDF/CSV reporting
+Admin controls for roles, job descriptions, and data
+Tech Stack
+Frontend: React.js + Tailwind CSS
+Backend: Node.js/Express or FastAPI
+Database: PostgreSQL, Redis
+AI/ML: GPT‑4, Whisper, DeepFace, PyAnnote, XGBoost
+Team & Roles
+Project Manager, Frontend & Backend Engineers
+ML Engineer, DevOps, QA, UX Designer
+Infrastructure & Tools
+Cloud: AWS (EC2, EKS, S3, SageMaker)
+CI/CD: GitHub Actions, Docker, Kubernetes
+Monitoring: Prometheus, Grafana
+Collaboration: Jira, Confluence, Slack
+Timeline Highlights
+Month 1: Planning & Architecture
+Month 2–3: Development scaffolding & data setup
+Month 4–5: Module MVPs
+Month 6: QA, Integration, Launch
+Built by Team Valorant Protocol
+Empowering smarter hiring with AI.
 
-## How can I edit this code?
 
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/8df50dfa-1982-4da1-ae91-cd055d54adfe) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/8df50dfa-1982-4da1-ae91-cd055d54adfe) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
